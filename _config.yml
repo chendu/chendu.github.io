@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "chendu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Life, Work, Thoughts, Almost Everything."
+  bio    : "Thoughts, Almost Everything."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
