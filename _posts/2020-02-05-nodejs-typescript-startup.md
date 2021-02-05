@@ -3,9 +3,12 @@ title: "Node + TypeScript Startup"
 categories:
   - Blog
 tags:
-  - NodeJs,TypeScript
+  - NodeJS
+  - TypeScript
 ---
 **Node + TypeScript starter**
+
+[reference page](https://khalilstemmler.com/blogs/typescript/node-starter-project/)
 
 **Prequisites**
 
