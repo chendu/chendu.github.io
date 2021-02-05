@@ -15,7 +15,7 @@ tags:
 
 In this guide, I'll walk you through the process of creating a basic TypeScript application and compling it. It's   actually really easy!
 
->[View the source]()
+>[View the source](https://github.com/chendu/node-ts-starter-all/tree/main/node-ts-starter)
 
 **Initial Setup**
 
